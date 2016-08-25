@@ -1,5 +1,5 @@
 {
-  "formId": "login",
+  "formKey": "login",
   "size": "sm",
   "block": "modal",
   "formHeader": "Вход",

@@ -1,5 +1,5 @@
 {
-  "formId": "register",
+  "formKey": "register",
   "size": "sm",
   "block": "modal",
   "formHeader": "Регистрация",
