@@ -226,7 +226,6 @@
       },
       "Адрес",
       {
-        "name": "fieldset1",
         "block": "fieldset",
         "label": "Период оплаты",
         "labelWidth": 3,
